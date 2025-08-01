@@ -4,7 +4,8 @@ public class TstGitIntegracao {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	system.out.println("oi");
+		System.out.println("oi");
+		System.out.println("oiiii");
 	}
 
 }
